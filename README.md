@@ -1,4 +1,4 @@
-# Date Calculator
+# Dates Calculator
 
 A PHP command line tool that helps to calculate the days between twn given dates.
 ## Requirements
