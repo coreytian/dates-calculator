@@ -14,4 +14,4 @@ php console.php
 ```
 Then enter the two dates in this format: `dd/mm/yyyy - dd/mm/yyyy`
 
-Enter `QUIT` or `quit` to terminate the tool.
+Enter `QUIT` or just press Enter key to terminate the tool.
